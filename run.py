@@ -21,7 +21,7 @@ template = b'\x89PNG\r\n\x1a\n\x00\x00\x00\rIHDR\x00\x00\x00\x19\x00\x00\x00\x1b
 template = np.asarray(bytearray(template), dtype="uint8")
 template = cv2.imdecode(template, 0)
 
-print ('Started. Auto close in 2min\n\nGet your ass to the wheel\n\nDo not push "S" button!!!\nOnly "E" then "Enter"!!!\n')
+print ('Started. Auto close in 2min\n\nGet your ass to the wheel\n\nDo not press "S" key!!!\nOnly "E" then "Enter"!!!\n')
 time.sleep(2)
 
 for _ in range(1000):
