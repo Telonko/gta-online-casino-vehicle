@@ -1,5 +1,5 @@
 # gta-online-casino-vehicle
-This script 100% gets a vehicle in the casino (**IF CURSOR POSITION IS LIKE ON THIS SCREEN**)
+This script 99.99% gets a vehicle in the casino (**IF CURSOR POSITION IS LIKE ON THIS SCREEN**)
 
 ![cursor position must be here](https://src.telonko.com/160520-cc31d0.png)
 
