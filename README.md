@@ -7,4 +7,4 @@ This script 100% gets a vehicle in the casino
 **Windows**
 ``Google @ windows how to execute python script``
 
-In case of any error just google it. The error say that you need to install libraries 
+In case of any error just google it. The error says that you need to install libraries 
