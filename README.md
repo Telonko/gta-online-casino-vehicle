@@ -13,8 +13,7 @@ In case of any error just google it. The error says that you need to install lib
 
 
 **What to do in the game**
-`` Get your ass to the wheel
+``Get your ass to the wheel
 
 Do not push "S" button!!!
-Only "E" then "Enter"!!!
-``
+Only "E" then "Enter"!!!``
