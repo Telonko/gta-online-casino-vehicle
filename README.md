@@ -1,5 +1,7 @@
 # gta-online-casino-vehicle
-This script 100% gets a vehicle in the casino
+This script 100% gets a vehicle in the casino (**IF THE CURSOR IS ON A CLOTH**)
+
+![position of the cursor must be here](https://src.telonko.com/160520-cc31d0.png)
 
 **Copy or download [run.py](https://github.com/Telonko/gta-online-casino-vehicle/blob/master/run.py)**
 
