@@ -15,7 +15,7 @@ In case of any error just google it. The error says that you need to install lib
 
 **What to do in the game**
 
-``Execute the script.
-Get your ass to the wheel.
-Do not push "S" button!!!
-Only "E" then "Enter"!!!``
+``1. Execute the script.
+2. Get your ass to the wheel.
+3. Do not push "S" button!!!
+4. Only "E" then "Enter"!!!``
