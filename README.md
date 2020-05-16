@@ -19,4 +19,4 @@ In case of any error just google it. The error says that you need to install lib
 
 1. Execute the script and go back to the game
 2. Get your ass to the wheel.
-3. Do not press **S** key!!! Only **E** then **Enter**!!!
+3. Do not press **S** key!!! Only **E** and **Enter**!!!
