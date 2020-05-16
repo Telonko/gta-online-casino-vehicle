@@ -1,6 +1,8 @@
 # gta-online-casino-vehicle
 This script 100% gets a vehicle in the casino
 
+**Copy or download run.py**
+
 **Linux**
 ``python ./run.py``
 
